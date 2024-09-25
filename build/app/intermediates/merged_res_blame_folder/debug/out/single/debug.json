@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.doctor_module.app-main-7:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-xhdpi_docto_sample_logo1.jpg.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-xhdpi/docto_sample_logo1.jpg"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-mdpi_docto_sample_logo1.jpg.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-mdpi/docto_sample_logo1.jpg"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-hdpi_docto_sample_logo1.jpg.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-hdpi/docto_sample_logo1.jpg"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/drawable_doctor_sample_logo.jpg.flat",
+        "source": "com.example.doctor_module.app-main-7:/drawable/doctor_sample_logo.jpg"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-xxxhdpi_docto_sample_logo1.jpg.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-xxxhdpi/docto_sample_logo1.jpg"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/drawable-v21_docto_sample_logo1.jpg.flat",
+        "source": "com.example.doctor_module.app-main-7:/drawable-v21/docto_sample_logo1.jpg"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.doctor_module.app-merged_res-13:/mipmap-xxhdpi_docto_sample_logo1.jpg.flat",
+        "source": "com.example.doctor_module.app-main-7:/mipmap-xxhdpi/docto_sample_logo1.jpg"
+    }
+]

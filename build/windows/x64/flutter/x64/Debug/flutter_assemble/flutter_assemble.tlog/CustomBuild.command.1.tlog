@@ -1,0 +1,28 @@
+^D:\DOCTORMODULE\BUILD\WINDOWS\X64\CMAKEFILES\42E83D8BDB5FF62A1CD02B662E6A7B44\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\DELL\Downloads\flutter_windows_3.13.7-stable\flutter PROJECT_DIR=D:\DoctorModule FLUTTER_ROOT=C:\Users\DELL\Downloads\flutter_windows_3.13.7-stable\flutter FLUTTER_EPHEMERAL_DIR=D:\DoctorModule\windows\flutter\ephemeral PROJECT_DIR=D:\DoctorModule FLUTTER_TARGET=D:\DoctorModule\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC81NWVhZTY4NjRiMjk2ZGQ5ZjQzYjJjYzc1NzdlYzI1NmU1YzMyYThkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\DoctorModule\.dart_tool\package_config.json C:/Users/DELL/Downloads/flutter_windows_3.13.7-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCTORMODULE\BUILD\WINDOWS\X64\CMAKEFILES\854F5C1756E0D3E96893F454C11D2663\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCTORMODULE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/DoctorModule/windows -BD:/DoctorModule/build/windows/x64 --check-stamp-file D:/DoctorModule/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,4 @@
+#Fri Sep 13 18:57:36 IST 2024
+base.0=D\:\\DoctorModule\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
