@@ -4,7 +4,11 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+<<<<<<< HEAD
 //main branch Firstcommit
+=======
+//cicdsubbranch001 firstcommit
+>>>>>>> cicdSubbranches001
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations(
